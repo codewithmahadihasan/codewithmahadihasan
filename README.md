@@ -1,3 +1,6 @@
+<img align="center" src="https://github.com/codewithashim/codewithashim/blob/main/img/gitBanner.png" alt="codewithashim" />
+
+
 - 👋 Hi, I’m Mahadi Hasan
 - 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning JS, React
