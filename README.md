@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/codewithashim/codewithashim/blob/main/img/gitBanner.png" alt="codewithashim" />
+<img align="center" src="https://github.com/mahadi-hasan-33/mahadi-hasan-33/blob/main/img/banner.jpg" alt="codewithashim" />
 
 
 - 👋 Hi, I’m Mahadi Hasan
