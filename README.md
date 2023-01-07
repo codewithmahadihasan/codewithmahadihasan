@@ -8,6 +8,7 @@
 - 📫 Facebook: https://www.facebook.com/codewithmahadihasan/  
 - ✉️ Mail: codewithmahadihasan@gmail.com
 - 🔗 Portfolio: https://codewithmahadihasan.web.app/
-- ![image](https://user-images.githubusercontent.com/73072248/211164409-e1b36812-fb83-429b-b775-ad0bd422ec0e.png)
+- 🔗 Linkdin: https://www.linkedin.com/in/codewithmahadihasan/
+
 
 
