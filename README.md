@@ -8,7 +8,7 @@
 - 📫 Facebook: https://www.facebook.com/codewithmahadihasan/  
 - ✉️ Mail: codewithmahadihasan@gmail.com
 - 🔗 Portfolio: https://codewithmahadihasan.web.app/
-- 🔗 Linkdin: https://www.linkedin.com/in/codewithmahadihasan/
+- 🔗 Linkdin: 
 
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/codewithmahadihasan" target="blank">
 Md. Mahadi Hasan</a></h1>
