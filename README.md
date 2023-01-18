@@ -55,7 +55,6 @@ Md. Mahadi Hasan</a></h1>
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/codewithmahadi">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		
 		<a style="margin-left: 5px;" target="_blank" href="https://drive.google.com/file/d/1ceMzLsHThk3YpEuTp2GBcAnVNXdoUk09/view?usp=share_link">
 					<img src="https://i.ibb.co/HCy83GP/fotor-2023-1-19-1-19-45.png" ></a>
       </div>
