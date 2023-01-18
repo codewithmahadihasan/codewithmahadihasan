@@ -1,15 +1,6 @@
 <img align="center" src="https://github.com/codewithmahadihasan/mahadi-hasan-33/blob/main/img/WhatsApp%20Image%202023-01-07%20at%2023.55.32.jpg" alt="codewithashim" />
 
 
-- 👋 Hi, I’m 
-- 👀 I’m interested in Web Programming
-- 🌱 I’m currently learning MERN Stack Development
-- 💞️ I’m looking to collaborate on competetive problem solving
-- 📫 Facebook: https://www.facebook.com/codewithmahadihasan/  
-- ✉️ Mail: codewithmahadihasan@gmail.com
-- 🔗 Portfolio: https://codewithmahadihasan.web.app/
-- 🔗 Linkdin: 
-
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/codewithmahadihasan" target="blank">
 Md. Mahadi Hasan</a></h1>
 <h3 align="center">I work with Web from Bangladesh </h3>
@@ -22,19 +13,18 @@ Md. Mahadi Hasan</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🌱 I’m currently Working Wev development (MERN-Stack)
 
-- 🤝 I’m available for freelancing.
+- 🤝 I’m available for a ewb developer.
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 🌱 I’m currently learning Web Development <a href="https://web.programming-hero.com/" target="blank">Programing Hero</a>
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+- 📝 I try to regularly write articles on [Bloging Website](https://dev.to/codewithmahadihasan)
 
-- 💬 Ask me about **Reactjs & React-Native**
+- 💬 Ask me about **Reactjs & Redux**
 
-- 📫 How to reach me **saurabhchavan052@gmail.com**
+- 📫 How to reach me **codewithmahadihasan@gmail.com**
 
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
@@ -67,13 +57,15 @@ Md. Mahadi Hasan</a></h1>
 
 - [Book House](https://book-house-01.web.app/)
 - [Edgar Allan Poe](https://edgar-allan-poe-90b18.web.app/)
-- [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
+- [Doctor's Portal](https://doctor-fcc05.web.app/)
+- [Emazon Project](https://fir-76a81.web.app/)\
+- [Quiz Project Quiz of Nation](https://assignment-nine-programing-hero.netlify.app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
+Credit: [Mahadi Hasan](https://github.com/codewithmahadihasan)
 
-Last Edited on: 08/08/2022
+Last Edited on: 1/19/2023
 
 
