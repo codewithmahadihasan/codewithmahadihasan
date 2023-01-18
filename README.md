@@ -1,7 +1,7 @@
 <img align="center" src="https://github.com/codewithmahadihasan/mahadi-hasan-33/blob/main/img/WhatsApp%20Image%202023-01-07%20at%2023.55.32.jpg" alt="codewithashim" />
 
 
-- 👋 Hi, I’m Md. Mahadi Hasan
+- 👋 Hi, I’m 
 - 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning MERN Stack Development
 - 💞️ I’m looking to collaborate on competetive problem solving
@@ -10,8 +10,8 @@
 - 🔗 Portfolio: https://codewithmahadihasan.web.app/
 - 🔗 Linkdin: https://www.linkedin.com/in/codewithmahadihasan/
 
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Saurabh</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/codewithmahadihasan" target="blank">
+Md. Mahadi Hasan</a></h1>
 <h3 align="center">A passionate Mobile App developer from Pune India &#127470;&#127475</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
