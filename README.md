@@ -58,7 +58,7 @@ Md. Mahadi Hasan</a></h1>
 - [Book House](https://book-house-01.web.app/)
 - [Edgar Allan Poe](https://edgar-allan-poe-90b18.web.app/)
 - [Doctor's Portal](https://doctor-fcc05.web.app/)
-- [Emazon Project](https://fir-76a81.web.app/)\
+- [Emazon Project](https://fir-76a81.web.app/)
 - [Quiz Project Quiz of Nation](https://assignment-nine-programing-hero.netlify.app/)
 <!-- BLOG-POST-LIST:END -->
 
