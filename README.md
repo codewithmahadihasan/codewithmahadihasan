@@ -21,7 +21,7 @@ I'm a passionate Fullstack Developer with a keen interest in building robust and
 </p>
  <p align="center">
   <a href="https://codewithmahadihasan.me">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,py,django" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,py" />
   </a>
 </p>
 
