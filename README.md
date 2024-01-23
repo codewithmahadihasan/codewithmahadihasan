@@ -2,7 +2,7 @@
 
 <h1>I know this tecnology</h1>
 <p align="center">
-  <a href="codewithmahadihasan.me">
+  <a href="https://codewithmahadihasan.me">
     <img src="https://skillicons.dev/icons?i=js,aws,docker,azure,css,firebase,git,mongodb,mysql,react,py,postgres,express,nodejs" />
   </a>
 </p>
