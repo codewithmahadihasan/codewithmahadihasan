@@ -3,31 +3,25 @@
 I'm a passionate Fullstack Developer with a keen interest in building robust and scalable web applications. Here's a bit about me:
 
 ## Technologies I Work With
-**Frontend:**
+
 <p align="center">
   <a href="https://codewithmahadihasan.me">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,materialui,ts,tailwind" />
   </a>
 </p>
-
- **Backend:**
- <p align="center">
-  <a href="https://codewithmahadihasan.me">
-    <img src="https://skillicons.dev/icons?i=nodejs,express" />
-  </a>
-</p>
- 
- **Databases:**
  <p align="center">
   <a href="https://codewithmahadihasan.me">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgres,azure,aws" />
   </a>
 </p>
- 
- **Other Tools and Technologies:**
  <p align="center">
   <a href="https://codewithmahadihasan.me">
     <img src="https://skillicons.dev/icons?i=git,docker,graphql" />
+  </a>
+</p>
+ <p align="center">
+  <a href="https://codewithmahadihasan.me">
+    <img src="https://skillicons.dev/icons?i=nodejs,express" />
   </a>
 </p>
 
