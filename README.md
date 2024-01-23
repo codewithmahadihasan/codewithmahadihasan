@@ -30,15 +30,13 @@ I'm a passionate Fullstack Developer with a keen interest in building robust and
 
 Feel free to reach out to me for collaboration, projects, or just a friendly chat:
   <p align="center">
-  <a href="mailto:codewithmahadihasan@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+    <a href="mailto:codewithmahadihasan@gmail.com">
+      <img src="https://skillicons.dev/icons?i=gmail" />
+    </a>
     <a href="https://www.linkedin.com/in/codewithmahadihasan">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-<!--       <a href="mailto:codewithmahadihasan@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="mailto:codewithmahadihasan@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a> -->
+      <img src="https://skillicons.dev/icons?i=linkedin" />
+    </a>
+    <a href="https://twitter.com/codewithmahadi/">
+      <img src="https://skillicons.dev/icons?i=twitter" />
+    </a>
+  </p>
