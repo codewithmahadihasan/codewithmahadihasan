@@ -3,7 +3,11 @@
 I'm a passionate Fullstack Developer with a keen interest in building robust and scalable web applications. Here's a bit about me:
 
 ## Technologies I Work With
-
+ <p align="center">
+  <a href="https://codewithmahadihasan.me">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+</p>
  <p align="center">
   <a href="https://codewithmahadihasan.me">
     <img src="https://skillicons.dev/icons?i=nodejs,express,py" />
