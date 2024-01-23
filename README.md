@@ -6,7 +6,7 @@ I'm a passionate Fullstack Developer with a keen interest in building robust and
 
 <p align="center">
   <a href="https://codewithmahadihasan.me">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,materialui,ts,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,materialui,js,ts,react,nextjs,rimix" />
   </a>
 </p>
  <p align="center">
