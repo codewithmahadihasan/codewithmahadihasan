@@ -4,14 +4,9 @@ I'm a passionate Fullstack Developer with a keen interest in building robust and
 
 ## Technologies I Work With
 
-<p align="center">
-  <a href="https://codewithmahadihasan.me">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,materialui,js,ts,react,nextjs,remix" />
-  </a>
-</p>
  <p align="center">
   <a href="https://codewithmahadihasan.me">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgres,azure,aws" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,py" />
   </a>
 </p>
  <p align="center">
@@ -21,9 +16,17 @@ I'm a passionate Fullstack Developer with a keen interest in building robust and
 </p>
  <p align="center">
   <a href="https://codewithmahadihasan.me">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,py" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgres,azure,aws" />
   </a>
 </p>
+<p align="center">
+  <a href="https://codewithmahadihasan.me">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,materialui,js,ts,react,nextjs,remix" />
+  </a>
+</p>
+
+
+
 
 
 ## Contact Information
