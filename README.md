@@ -5,7 +5,7 @@ I'm a passionate Fullstack Developer with a keen interest in building robust and
 ## Technologies I Work With
  <p align="center">
   <a href="https://codewithmahadihasan.me">
-    <img src="https://skillicons.dev/icons?i=git" />
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
  <p align="center">
