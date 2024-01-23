@@ -6,7 +6,7 @@ I'm a passionate Fullstack Developer with a keen interest in building robust and
 
 <p align="center">
   <a href="https://codewithmahadihasan.me">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,materialui,js,ts,react,nextjs,rimix" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,materialui,js,ts,react,nextjs,remix" />
   </a>
 </p>
  <p align="center">
@@ -16,12 +16,12 @@ I'm a passionate Fullstack Developer with a keen interest in building robust and
 </p>
  <p align="center">
   <a href="https://codewithmahadihasan.me">
-    <img src="https://skillicons.dev/icons?i=git,docker,graphql" />
+    <img src="https://skillicons.dev/icons?i=git,docker,graphql,postman" />
   </a>
 </p>
  <p align="center">
   <a href="https://codewithmahadihasan.me">
-    <img src="https://skillicons.dev/icons?i=nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,py,django" />
   </a>
 </p>
 
