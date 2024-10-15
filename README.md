@@ -29,6 +29,8 @@ I'm a passionate Fullstack Developer with a keen interest in building robust and
   </a>
 </p>
 
+[![](https://visitcount.itsvg.in/api?id=codewithmahadihasan&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 
 
 
